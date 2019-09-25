@@ -1,0 +1,47 @@
+﻿  ogr.c
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(724): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(952): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(1491): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(1516): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(1541): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(1577): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(1614): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(1688): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(1758): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2053): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2102): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2134): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2275): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2719): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2771): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2795): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2821): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2848): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2873): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2901): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2936): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(2976): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3021): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3066): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3112): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3139): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3166): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3202): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3203): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3246): warning C4244: '=': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3252): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3303): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3335): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(3371): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(4198): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(4668): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(4953): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(4976): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(5227): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+c:\development\op3d_active\php_ogr-1.5.1\php_ogr\ogr.c(5891): warning C4244: 'function': conversion from 'zend_long' to 'int', possible loss of data
+     Creating library C:\Development\op3d_active\php_ogr-1.5.1\vc141\x64\vs2017_Debug\php_ogr.lib and object C:\Development\op3d_active\php_ogr-1.5.1\vc141\x64\vs2017_Debug\php_ogr.exp
+ogr.obj : error LNK2019: unresolved external symbol __imp__emalloc@@40 referenced in function zif_ogr_g_exporttowkb
+ogr.obj : error LNK2019: unresolved external symbol __imp__efree@@40 referenced in function zif_ogr_g_exporttowkb
+ogr.obj : error LNK2019: unresolved external symbol __imp__estrdup@@40 referenced in function zif_osr_exporttowkt
+ogr.obj : error LNK2019: unresolved external symbol __imp__convert_to_string@@24 referenced in function php_array2string
+C:\Development\op3d_active\php_ogr-1.5.1\vc141\x64\vs2017_Debug\php_ogr.dll : fatal error LNK1120: 4 unresolved externals
